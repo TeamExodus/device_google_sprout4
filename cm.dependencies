@@ -13,12 +13,6 @@
     "revision": "cm-12.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_google",
-    "target_path": "vendor/google",
-    "remote": "github",
-    "revision": "cm-12.1"
-  },
-  {
     "repository": "CyanogenMod/android_packages_apps_FMRadio",
     "target_path": "packages/apps/FMRadio",
     "remote": "github",
