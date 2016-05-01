@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+#Turn off Dexpreopt
+WITH_DEXPREOPT := false
+
 # inherit from common sprout repo
 -include device/google/sprout-common/BoardConfigCommon.mk
 
